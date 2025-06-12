@@ -9,7 +9,7 @@ These are the possible commands given to the players. They are randomized:
 1) The LED lights will turn purple, representing the "Bop it" command. The player has to hit the right button before the LED light turns off to earn a point
 2) The LED light will turn yellow, representing the "twist it" command. The player has to shake the CPX board before the LED light turns off
 3) The LED light will turn purple, representing the "pull it" command. The player has to press both buttons before the LED lights turn off
-4) 
+
 When the player correctly executes each command, the score will increment by 1. As the score increases, the speed at which the commands are given will also increase.
 
 2 players can play this game, so the high score of both players will be stored after the end of the game and displayed before every round starts.
